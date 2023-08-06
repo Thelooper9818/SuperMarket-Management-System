@@ -16,6 +16,12 @@ This Supermarket Management System is a C++ project developed using Object-Orien
 2. Make sure you have a C++ compiler installed on your system.
 3. Compile and run the `main.cpp` file to start the Supermarket Management System.
 
+## Run Command
+```
+g++ main.cpp -o main
+./main
+```
+
 ## Usage
 1. Upon running the application, you will be prompted to log in with your administrator credentials.
 2. Use the menu options to navigate through various functionalities of the system.
