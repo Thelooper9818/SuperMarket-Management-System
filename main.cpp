@@ -64,7 +64,7 @@ void shopping :: menu()
                 cin>>password;
 
                 //checking for authentication
-                if(email == "npandey9818@gmail.com" && password == "npandey9818") 
+                if(email == "admin@gmail.com" && password == "admin@101") 
                 {
                     administrator(); //we will call the administrator function if the email and password is correct
                 }
