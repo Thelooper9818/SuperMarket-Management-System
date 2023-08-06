@@ -5,11 +5,7 @@ This Supermarket Management System is a C++ project developed using Object-Orien
 
 ## Features
 1. Product Management: Add, update, and delete products from the supermarket inventory.
-2. Inventory Tracking: Keep track of available stock and receive alerts for low stock items.
-3. Billing System: Generate itemized bills for customers with detailed pricing and discounts.
-4. Customer Management: Maintain customer records, track their purchase history, and manage loyalty points.
-5. Employee Management: Add and manage employees with different roles and permissions.
-6. Sales Reporting: Generate sales reports for analysis and decision-making.
+2. Billing System: Generate itemized bills for customers with detailed pricing and discounts.
 
 ## Installation
 1. Clone this repository to your local machine.
@@ -24,7 +20,6 @@ if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
 ## Usage
 1. Upon running the application, you will be prompted to log in with yoxur administrator credentials.
 2. Use the menu options to navigate through various functionalities of the system.
-3. Add products, manage inventory, process sales, and handle customer information.
 
 ## Dependencies
 This Supermarket Management System is developed using C++ with standard libraries. There are no external dependencies required for running this application.
