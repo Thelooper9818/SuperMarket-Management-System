@@ -18,12 +18,11 @@ This Supermarket Management System is a C++ project developed using Object-Orien
 
 ## Run Command
 ```
-g++ main.cpp -o main
-./main
+if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
 ```
 
 ## Usage
-1. Upon running the application, you will be prompted to log in with your administrator credentials.
+1. Upon running the application, you will be prompted to log in with yoxur administrator credentials.
 2. Use the menu options to navigate through various functionalities of the system.
 3. Add products, manage inventory, process sales, and handle customer information.
 
@@ -34,12 +33,10 @@ This Supermarket Management System is developed using C++ with standard librarie
 Contributions to improve and enhance this Supermarket Management System are welcome. Please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
+Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 ## Author
-This Supermarket Management System is created and maintained by [Your Name](https://github.com/yourusername). For any questions or feedback, please feel free to contact me.
+This Supermarket Management System is created and maintained by [Narayan Pandey](https://github.com/Thelooper9818).
 
-## Acknowledgements
-Special thanks to [Instructor/Resource Name](https://github.com/instructorusername) for providing guidance and support during the development of this project.
 
 Happy Coding! 😊
